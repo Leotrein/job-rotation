@@ -1,3 +1,5 @@
+Descubra a lógica e complete o próximo elemento:
+
 a) 1, 3, 5, 7, ...
 resposta: 9, pois adiciona 2 a cada número
 
